@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p136806-e1403562.adobeaemcloud.com/bin/franklin.delivery/swatiadobe/wordtest/main"
+    url: "https://author-p134211-e1317444/bin/franklin.delivery/swatiadobe/wordtest/main"
     type: "markup"
     suffix: ".html"
