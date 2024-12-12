@@ -1,0 +1,122 @@
+[
+  {
+    "id": "main",
+    "components": [
+      "section"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "cards",
+      "columns",
+      "data-cards",
+      "curated-cards",
+      "explore-cards",
+      "mini-cards",
+      "research-publications-cards",
+      "live-now",
+      "signup",
+      "teaser",
+      "tabs",
+      "priority-list",
+      "leaders-list",
+      "bio-detail",
+      "carousel",
+      "organizational-cards",
+      "breadcrumb",
+      "block-quote",
+      "impact-cards",
+      "heading",
+      "dm-asset",
+      "fragment",
+      "video",
+      "iframe"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "carousel",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": []
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "dm-asset"
+    ]
+  },
+  {
+    "id": "curated-cards",
+    "components": [
+      "curated-card"
+    ]
+  },
+  {
+    "id": "data-cards",
+    "components": [
+      "data-card",
+      "news-card"
+    ]
+  },
+  {
+    "id": "explore-cards",
+    "components": [
+      "explore-card"
+    ]
+  },
+  {
+    "id": "impact-cards",
+    "components": [
+      "impact-card"
+    ]
+  },
+  {
+    "id": "mini-cards",
+    "components": [
+      "mini-card"
+    ]
+  },
+  {
+    "id": "organizational-cards",
+    "components": [
+      "organizational-card"
+    ]
+  },
+  {
+    "id": "priority-list",
+    "components": [
+      "priority-item"
+    ]
+  },
+  {
+    "id": "research-publications-cards",
+    "components": [
+      "research-publications-card"
+    ]
+  },
+  {
+    "id": "tabs",
+    "components": [
+      "tab"
+    ]
+  }
+]
